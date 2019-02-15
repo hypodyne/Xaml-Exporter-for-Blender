@@ -1,4 +1,4 @@
-# BlenderXamlExporter
+# Xaml-Exporter-for-Blender
 A XAML Exporter for Blender
 
 The Blender export script was created to make it easy to get 3D models into the XAML format for use in WPF applications. The limitations is that only certain Blender items can be exported such as 3D Models, Materials, Textures and Lamps.
