@@ -1,13 +1,14 @@
 ##########################################
 # Copyright AI Robot Media 2017
 # Bug fixes and Blender 2.8 support by CodingEric@Github
+# Rename it to io_export_xaml.py before installation if encountering bugs
 ##########################################
 
 bl_info = {
     "name": "XAML format (.xaml)",
     "author": "AI Robot Media, CodingEric",
     "version": (1, 0, 1),
-    "blender": (2, 8, 0),
+    "blender": (2, 80, 0),
     "location": "File > Export > XAML",
     "description": "Export scene to XAML",
     "warning": "",
